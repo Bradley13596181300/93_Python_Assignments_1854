@@ -1,0 +1,6 @@
+The entered string is: Hello World 123
+The number of digits is: 3
+The number of characters is: 15
+The number of vowels is: 3
+The number of lowercase letters is: 8
+The modified string is: Hello_World_123
